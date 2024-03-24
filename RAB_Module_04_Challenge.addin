@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>RAB_Module_04_Challenge - Command 1</Text>
+    <Description>Some description for RAB_Module_04_Challenge</Description>
+    <Assembly>RAB_Module_04_Challenge.dll</Assembly>
+    <FullClassName>RAB_Module_04_Challenge.Command1</FullClassName>
+    <ClientId>489d3df4-3b88-4a30-9cd3-c673aed9ef72</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>RAB_Module_04_Challenge - Command 2</Text>
+    <Description>Some description for RAB_Module_04_Challenge</Description>
+    <Assembly>RAB_Module_04_Challenge.dll</Assembly>
+    <FullClassName>RAB_Module_04_Challenge.Command2</FullClassName>
+    <ClientId>71905941-8305-4a26-a6ee-3e47bf79a8a7</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>RAB_Module_04_Challenge - Command 3</Text>
+		<Description>Some description for RAB_Module_04_Challenge</Description>
+		<Assembly>RAB_Module_04_Challenge.dll</Assembly>
+		<FullClassName>RAB_Module_04_Challenge.Command3</FullClassName>
+		<ClientId>F84EF7E6-20A0-4BE5-B3E0-47105481AE30</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>RAB_Module_04_Challenge - Command 4</Text>
+		<Description>Some description for RAB_Module_04_Challenge</Description>
+		<Assembly>RAB_Module_04_Challenge.dll</Assembly>
+		<FullClassName>RAB_Module_04_Challenge.Command4</FullClassName>
+		<ClientId>94FDAC92-4A20-4E66-B21D-18BC938E0F38</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>RAB_Module_04_Challenge - Command 5</Text>
+		<Description>Some description for RAB_Module_04_Challenge</Description>
+		<Assembly>RAB_Module_04_Challenge.dll</Assembly>
+		<FullClassName>RAB_Module_04_Challenge.Command5</FullClassName>
+		<ClientId>6D40F4D5-C924-4255-BC1F-53AD50222673</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+	<AddIn Type="Command">
+		<Text>RAB_Module_04_Challenge - Command 6</Text>
+		<Description>Some description for RAB_Module_04_Challenge</Description>
+		<Assembly>RAB_Module_04_Challenge.dll</Assembly>
+		<FullClassName>RAB_Module_04_Challenge.Command6</FullClassName>
+		<ClientId>1B0E5BDA-C8D0-4955-A978-4927BFB09F97</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+  <AddIn Type="Application">
+    <Name>RAB_Module_04_Challenge</Name>
+    <Assembly>RAB_Module_04_Challenge.dll</Assembly>
+    <FullClassName>RAB_Module_04_Challenge.App</FullClassName>
+    <ClientId>07a95c11-df31-46e7-87c3-f30c6518b93a</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
